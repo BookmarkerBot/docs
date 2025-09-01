@@ -65,9 +65,9 @@
       "pages": [
         "features/core",
         "features/colour-change",
-        "features/refresh",
         "features/repost",
-        "features/notes"
+        "features/notes",
+        "features/mobile"
       ]
     },
     {
