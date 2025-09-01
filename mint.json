@@ -48,7 +48,7 @@
     {
       "name": "Github",
       "icon": "Github",
-      "url": "https://github.com/Squidtoon99/bookmark-bot"
+      "url": "https://github.com/bookmarkerbot"
     }
   ],
   "navigation": [
@@ -65,9 +65,9 @@
       "pages": [
         "features/core",
         "features/colour-change",
+        "features/refresh",
         "features/repost",
-        "features/notes",
-        "features/mobile"
+        "features/notes"
       ]
     },
     {
@@ -80,7 +80,7 @@
   ],
   "footerSocials": {
     "discord": "https://discord.gg/ytSc5Pz3te",
-    "github": "https://github.com/Squidtoon99/bookmark-bot"
+    "github": "https://github.com/bookmarkerbot"
   },
   "feedback": {
     "thumbsRating": true,
